@@ -23,7 +23,7 @@ constructor(props){
         alert('Ingrese el mensaje a enviar');
       }
     }else{
-      alert('Ingrese el número de teléfono');
+      alert('Ingrese el número de teléfono a donde se enviara el msg');
     }
   }
   render() {
